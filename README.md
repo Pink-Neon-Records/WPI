@@ -1,4 +1,8 @@
-Andromeda-WordPress-Plugin
+WPI (WordPress Integrate)
 ==========================
 
-This plugin will enable the Andromeda platform to communicate with our WordPress Network.
+The WPI plugin will enable the Andromeda platform to communicate with WordPress via API.
+
+Features
+========
+MU Compatible.
